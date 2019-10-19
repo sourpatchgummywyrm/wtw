@@ -1,0 +1,4 @@
+#Sat Oct 19 17:59:06 EDT 2019
+base.0=C\:\\Users\\komod\\Downloads\\flutterfire-master\\packages\\firebase_auth\\wtw\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
